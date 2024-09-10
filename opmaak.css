@@ -12,3 +12,16 @@ body {
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
   }
   
+  li a {
+    display: block;
+    width: 60px;
+  }
+
+li a {
+  display: block;
+}
+/* Change the link color on hover */
+li a:hover {
+  background-color: #000000;
+  color: rgb(255, 0, 0);
+}
