@@ -5,7 +5,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 0%;
+    width: 50%;
     background-color: #ff0000;
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
