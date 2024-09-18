@@ -28,7 +28,7 @@ body {
   
   li a.active {
     background-color: #ff0000;
-    color: white;
+    color: rgb(255, 0, 0);
   }
   
   
