@@ -1,12 +1,12 @@
 body {
-    background-color: lightblue;
+    background-color: lightblue; /*achtergrond kleur website*/
   }
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #000000; /*achtergrond kleur menu*/
+    background-color: #000000; /*achtergrond kleur van menu*/
   }
   
 li {
@@ -17,17 +17,17 @@ li a {
     display: block;
     color: rgb(255, 255, 255); /*tekst kleur menu*/
     text-align: center;
-    padding: 20px 20px; /*grootte blok menu*/
+    padding: 20px 20px; /*grootte van het blok menu*/
     text-decoration: none;
   }
   
 li a:hover {
-    background-color: #ff0000; /*achtergrond kleur menu als je er op gaat*/
+    background-color: #ff0000; /*achtergrond kleur menu als je er over heen gaat 'hoveren' */
   }
 
  h1 {
-  font-family: Arial, sans-serif; /*font titel op pagina*/
-  font-size: 50px; /*size titel op pagina*/
+  font-family: Arial, sans-serif; /*lettertype van de titel op de pagina*/
+  font-size: 50px; /*grootte van letters van de titel op de pagina*/
   color: #000000; /*kleur titel op pagina*/
   font-style: normal; /*font titel op pagina*/
   margin: auto;
