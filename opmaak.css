@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #5e769e; /*achtergrond kleur menu*/
+    background-color: #000000; /*achtergrond kleur menu*/
   }
   
 li {
@@ -15,14 +15,14 @@ li {
   
 li a {
     display: block;
-    color: rgb(0, 0, 0); /*tekst kleur menu*/
+    color: rgb(255, 255, 255); /*tekst kleur menu*/
     text-align: center;
     padding: 20px 20px; /*grootte blok menu*/
     text-decoration: none;
   }
   
 li a:hover {
-    background-color: #ffffff; /*achtergrond kleur menu als je er op gaat*/
+    background-color: #ff0000; /*achtergrond kleur menu als je er op gaat*/
   }
 
  h1 {
