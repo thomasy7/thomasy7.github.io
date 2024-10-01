@@ -1,12 +1,12 @@
 body {
-    background-color: lightblue; /*achtergrond kleur website*/
+    background-color: lightblue; /*achtergrond kleur van mijn website*/
   }
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #000000; /*achtergrond kleur van menu*/
+    background-color: #000000; /*achtergrond kleur van het menu*/
   }
   
 li {
@@ -15,7 +15,7 @@ li {
   
 li a {
     display: block;
-    color: rgb(255, 255, 255); /*tekst kleur menu*/
+    color: rgb(255, 255, 255); /*tekst kleur van het menu*/
     text-align: center;
     padding: 20px 20px; /*grootte van het blok menu*/
     text-decoration: none;
