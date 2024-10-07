@@ -28,8 +28,8 @@ li a:hover {
  h1 {
   font-family: Arial, sans-serif; /*lettertype van de titel op de pagina*/
   font-size: 50px; /*grootte van letters van de titel op de pagina*/
-  color: #000000; /*kleur titel op pagina*/
-  font-style: normal; /*font titel op pagina*/
+  color: #000000; /*kleur van de titel op mijn pagina*/
+  font-style: normal; /*lettertype van de titel op mijn pagina*/
   margin: auto;
   padding: auto;
   text-align: left;
@@ -40,11 +40,11 @@ li a:hover {
 }
 
 .footer { 
-    background-color: green; /* Achtergrondkleur van de footer (groen) */
+    background-color: rgb(0, 0, 0); /* Achtergrondkleur van de footer (groen) */
     padding: 12px; /* Ruimte rondom de inhoud van de footer */ 
     text-align: center; /* Centreer de tekst in de footer */
-    color: white; /* Tekstkleur van de footer (wit) */
-    position: relative; /* Positie van de footer */ 
+    color: lightblue; /* Tekstkleur van de footer */
+    position: relative; /* Positie van waar de footer staat */ 
     width: 100%; /* Breedte van de footer */
     left: 1; /* Ruimte naar de linkerkant */
 }
