@@ -35,6 +35,18 @@ li a:hover {
   text-align: left;
   }
   
-  
+  p {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.footer { 
+    background-color: green; /* Achtergrondkleur van de footer (groen) */
+    padding: 12px; /* Ruimte rondom de inhoud van de footer */ 
+    text-align: center; /* Centreer de tekst in de footer */
+    color: white; /* Tekstkleur van de footer (wit) */
+    position: relative; /* Positie van de footer */ 
+    width: 100%; /* Breedte van de footer */
+    left: 1; /* Ruimte naar de linkerkant */
+}
  
   
