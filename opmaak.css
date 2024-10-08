@@ -17,8 +17,8 @@ li {
 li a {
     display: block;
     color: rgb(255, 255, 255); /*tekst kleur van het menu*/
-    text-align: center;
-    padding: 13px 13px; /*grootte van het blok menu*/
+    text-align: center; /*tekst staat in het midden van het bloke*/
+    padding: 13px 13px; /*grootte van het blok menu 13 pixels*/
     text-decoration: none;
   }
   
